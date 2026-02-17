@@ -1,1 +1,1 @@
-Curator
+Curator Project

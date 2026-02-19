@@ -9,9 +9,13 @@
 
 ### Claim 1
 - **Claim:**
+    Bauhaus was founded in 1919 in Weimar, Germany by  Walter Gropius, and it has been shut down by the Nazis
 - **Source link(s):**
-- **Confidence:** High / Medium / Low
+    https://www.moma.org/collection/terms/bauhaus
+- **Confidence:** High
+
 - **Notes:**
+
 
 ---
 
@@ -19,8 +23,10 @@
 
 ### Claim 1
 - **Claim:**
+    Swiss style is known to use grid based system and typography
 - **Source link(s):**
-- **Confidence:** High / Medium / Low
+    https://www.printmag.com/featured/swiss-style-principles-typefaces-designers/
+- **Confidence:** Medium
 - **Notes:**
 
 ---
@@ -28,9 +34,10 @@
 ## Card 3: [New Wave / Grunge]
 
 ### Claim 1
-- **Claim:**
+- **Claim:** Wolfgang Weingart invented the New Wave style by questionning the previous Swiss Typography
 - **Source link(s):**
-- **Confidence:** High / Medium / Low
+    https://ericcraps.wordpress.com/2019/01/09/new-wave/
+- **Confidence:**Low
 - **Notes:**
 
 ---
@@ -39,4 +46,4 @@
 
 **One AI claim I didn't trust at first and how I verified it:**
 
-*[Write 2–3 sentences. What did the AI say? Why did it feel wrong? What source confirmed or denied it?]*
+*[I did not trust AI when it claimed Wolfgang as the Father of New Wave because I saw his name in many of my other researches about Swiss typography, but it turns out AI was correct.]*

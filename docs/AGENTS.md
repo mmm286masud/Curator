@@ -1,15 +1,6 @@
 # AGENTS.md — AI Instructions
 
-> This file is your "master letter" to the AI. Everything the AI needs to know about your project goes here.
-> You will write a version of this file for every project this semester.
->
-> **For this assignment**, the audience and constraints are defined for you below.
-> **For future projects** (Design Museum, Business Site, Portfolio), you'll define your own audience, tone, and constraints from scratch.
-
 ## Audience & Tone
-
-<!-- WHY THIS IS SET: Museum labels target a specific reader. Defining audience
-     prevents the AI from writing for the wrong context (too academic, too casual). -->
 
 - **Audience:** Museum visitors with general interest in design (not experts)
 - **Tone:** Authoritative but accessible. Think museum wall label — precise, confident, no fluff.
@@ -27,10 +18,6 @@
 
 ## Banned Words
 
-<!-- WHY THIS MATTERS: Vague words waste tokens and dilute meaning.
-     In your Business Site project, you'll build a different banned list
-     (e.g., banning "synergy," "leverage," "best-in-class"). -->
-
 Do not use these vague words in any card:
 
 - creative, innovative, revolutionary, iconic
@@ -42,31 +29,29 @@ Replace with specific domain vocabulary.
 
 ## Controlled Vocabulary
 
-<!-- THIS IS YOUR JOB: Build this list during Exploration (Phase 1).
-     Run the vocabulary prompt from the Prompt Pack, then SELECT the terms
-     that are actually useful. Discard the rest. Aim for 15–25 terms.
-     For the Design Museum, your team will build a shared vocabulary.
-     For the Business Site, this list will include Cialdini, Maslow, archetype terms. -->
-
 Use these terms. If a term is not on this list, define it before using it.
 
 | Term | Definition |
-|------|-----------|
-| Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Gesamtkunstwerk | Integration of art, craft, and design into a unified whole |
+| Industrial production | Design optimized for mass manufacturing processes |
+| Standardization | Use of consistent forms and systems for reproducibility |
+| Typographic grid | Structured alignment system organizing text spatially |
+| Flush-left rag-right | Text aligned left with uneven right edge |
+| Grotesque typeface | Early classification of sans-serif typefaces |
+| Rationalism | Design philosophy prioritizing logic and clarity |
+| Universality | Aim for cross-cultural, language-neutral communication |
+| Modular proportion | Consistent spatial relationships between layout elements |
+| Reduction | Removal of ornament to emphasize structural clarity |
+| Functional typography | Typography designed for clarity over expression |
+| Compositional asymmetry | Balanced layout without mirrored symmetry |
+| Typographic contrast | Variation in size, weight, or scale to signal hierarchy |
+| Structural experimentation | Manipulation of typographic systems for expressive effect |
+| Spatial fragmentation | Intentional disruption of orderly layout structure |
+| Legibility | Ease of distinguishing individual letterforms |
+| Readability | Ease of comprehending extended text |
+| Typographic distortion | Deliberate alteration of letterform structure |
+| Vernacular reference | Incorporation of everyday or non-institutional design language |
+| Formal discipline | Strict adherence to systematic design principles |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
